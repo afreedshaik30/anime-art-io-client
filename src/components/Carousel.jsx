@@ -2,9 +2,9 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
 
-const img1 = "https://i.ibb.co/5XYHT0Gv/image1.jpg";
-const img2 = "https://i.ibb.co/9kqZYTf/image2.jpg";
-const img3 = "https://i.ibb.co/B5LZndH/image3.jpg";
+const img1 = "https://i.ibb.co/ZRHDdjGK/img1.jpg";
+const img2 = "https://i.ibb.co/cSJFYMKV/img2.jpg";
+const img3 = "https://i.ibb.co/DH7rKC6N/img3.jpg";
 
 const sampleImages = [img1, img2, img3];
 
